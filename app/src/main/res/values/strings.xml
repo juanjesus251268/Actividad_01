@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navidad</string>
+    <string name="entrada">Estas van a ser unas navidades diferentes, marcadas por las distancias, las restricciones y sobre todo por las ausencias, las duras consecuencias que la pandemia nos está dejando</string>
+    <string name="todo">TODO</string>
+    <string name="navidad_2020">Navidad 2020</string>
+    <string name="fuente_entrada">TravelingTypewriter.ttf</string>
+
+
+</resources>
